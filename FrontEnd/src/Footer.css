@@ -1,0 +1,58 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: left;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    font-size: 15px;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .social-icons {
+    margin-bottom: 10px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 10px;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #55acee; /* Twitter blue */
+  }
+  
+  .footer .col-md-4 ul li a {
+    text-decoration: none; 
+    color: #FFFFFF; 
+    font-size: 15px;
+  }
+
+  .top {
+    text-align: center;
+  }
+
+  .desk {
+    margin-top: 40px;
+    font-size: 15px;
+    max-width: 350px;
+  }
+
+  .mark {
+    margin-top: 0px;
+    font-size: 15px;
+    background-color: #333;
+    color: #fff;
+  }
+
+  .ul {
+    margin-top: 25px;
+  }
